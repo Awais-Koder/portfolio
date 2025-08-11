@@ -24,7 +24,7 @@ const Header: React.FC<HeaderProps> = () => {
           {/* Logo */}
           <div className="flex-shrink-0">
             <h1 className="text-2xl font-bold text-blue-600 dark:text-blue-400">
-              FilamentDev
+              Muhammad Awais
             </h1>
           </div>
 

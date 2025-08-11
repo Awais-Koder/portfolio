@@ -12,9 +12,9 @@ const About: React.FC = () => {
   ];
 
   const stats = [
-    { icon: Briefcase, value: '50+', label: 'Projects Completed' },
-    { icon: User, value: '30+', label: 'Happy Clients' },
-    { icon: Award, value: '5+', label: 'Years Experience' },
+    { icon: Briefcase, value: '10+', label: 'Projects Completed' },
+    { icon: User, value: '5+', label: 'Happy Clients' },
+    { icon: Award, value: '2+', label: 'Years Experience' },
   ];
 
   return (
@@ -28,7 +28,7 @@ const About: React.FC = () => {
               </h2>
               
               <p className="text-lg text-gray-600 dark:text-gray-300 mb-6 leading-relaxed">
-                I'm a passionate Laravel Filament developer with over 5 years of experience building 
+                I'm a passionate Laravel Filament developer with over 2 years of experience building 
                 robust admin panels and SaaS applications. I specialize in creating intuitive, 
                 scalable solutions that streamline business operations and drive growth.
               </p>
