@@ -40,11 +40,11 @@ const Hero: React.FC = () => {
               <div className="mt-12 flex items-center space-x-8">
                 <div className="flex items-center text-sm text-gray-500 dark:text-gray-400">
                   <Code className="mr-2 text-blue-600" size={16} />
-                  <span>5+ Years Experience</span>
+                  <span>2+ Years Experience</span>
                 </div>
                 <div className="flex items-center text-sm text-gray-500 dark:text-gray-400">
                   <Database className="mr-2 text-green-500" size={16} />
-                  <span>50+ Projects Delivered</span>
+                  <span>10+ Projects Delivered</span>
                 </div>
               </div>
             </div>
