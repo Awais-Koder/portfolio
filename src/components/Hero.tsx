@@ -8,14 +8,14 @@ const Hero: React.FC = () => {
         <div className="lg:grid lg:grid-cols-12 lg:gap-8 items-center">
           <div className="lg:col-span-6">
             <div className="animate-fade-in-up">
-              <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-gray-900 dark:text-white leading-tight">
+              <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-orange-600 dark:text-white leading-tight">
                 Laravel Filament Developer
                 <span className="block text-blue-600 dark:text-blue-400">
                   for SaaS & Custom Dashboards
                 </span>
               </h1>
               
-              <p className="mt-6 text-xl text-gray-600 dark:text-gray-300 leading-relaxed">
+              <p className="mt-6 text-xl text-gray-900 dark:text-gray-300 leading-relaxed">
                 I build fast, scalable, and beautiful admin panels using Laravel & Filament. 
                 Transform your business processes with powerful dashboard solutions.
               </p>
